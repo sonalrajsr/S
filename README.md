@@ -12,7 +12,7 @@ Plot of SFD & BMD can be done for different type of forces like:
 
 
 
-## Deployment
+## Steps
 
 To Plot graphs, follow steps
 
@@ -20,3 +20,5 @@ To Plot graphs, follow steps
   Home > Plot > Point Load || Uniform Load || Linear Load > Put Values > Plot Graph
 ```
 
+## Link to Website 
+https://sonalrajsr.github.io/SFD-BMD-Plotting-Website/index.html
